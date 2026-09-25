@@ -1,0 +1,533 @@
+{
+  "metadata": {
+    "catalog_key": "solar",
+    "family": "solar",
+    "display_name": "Solar Kablolar",
+    "display_en": "Solar PV Cables",
+    "icon": "☀️",
+    "source_excel": "etk_solar_kablolar.xlsx",
+    "compiled_at": "2026-09-09T17:43:59.631936",
+    "sheet_names": [
+      "Ürünler",
+      "Teknik ve Elektriksel",
+      "Standartlar ve Mekanik"
+    ],
+    "total_products": 1,
+    "total_variations": 8
+  },
+  "urunler": [
+    {
+      "id": "2181",
+      "urun_adi": "H1Z2Z2-K Solar Kablo",
+      "kategori": "Solar Kablolar",
+      "alt_kategori": "",
+      "slug": "h1z2z2-k-solar-kablo",
+      "url": "https://www.etkkablo.com/urun/h1z2z2-k-solar-kablo/",
+      "gorsel_url": "https://www.etkkablo.com/wp-content/uploads/2025/07/k1z2z2-k-solar-kablo.jpg",
+      "pdf_url": "https://www.etkkablo.com/wp-content/uploads/2025/07/02c3d9fd-9570-4187-aacb-45b8297af366.pdf",
+      "kablo_yapisi": "1 – İletken:Bükülü elektrolitik kalaylı bakır iletken (Sınıf 5) (IEC 60228, EN 60228, DIN VDE 0295).\n2 – İzole:Çapraz bağlı (XL) HFFR (EN 60811, EN 60216-1-2).\n3 – Dış Kılıf:Çapraz bağlı (XL) HFFR dış kılıf. RAL 9005 (Siyah) veya RAL 3000 (Kırmızı)",
+      "notlar": "",
+      "varyasyonlar": [
+        {
+          "urun_id": "2181",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "part_numarasi": "H1Z2Z2-01",
+          "iletken_kesiti_mm2": "1.50 mm²",
+          "yapilandirma_ozeti": "1.50 mm²",
+          "dis_cap_mm": "",
+          "toplam_agirlik_kg_km": "",
+          "bakir_agirligi_kg_km": ""
+        },
+        {
+          "urun_id": "2181",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "part_numarasi": "H1Z2Z2-02",
+          "iletken_kesiti_mm2": "2.50 mm²",
+          "yapilandirma_ozeti": "2.50 mm²",
+          "dis_cap_mm": "",
+          "toplam_agirlik_kg_km": "",
+          "bakir_agirligi_kg_km": ""
+        },
+        {
+          "urun_id": "2181",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "part_numarasi": "H1Z2Z2-03",
+          "iletken_kesiti_mm2": "4.00 mm²",
+          "yapilandirma_ozeti": "4.00 mm²",
+          "dis_cap_mm": "",
+          "toplam_agirlik_kg_km": "",
+          "bakir_agirligi_kg_km": ""
+        },
+        {
+          "urun_id": "2181",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "part_numarasi": "H1Z2Z2-04",
+          "iletken_kesiti_mm2": "6.00 mm²",
+          "yapilandirma_ozeti": "6.00 mm²",
+          "dis_cap_mm": "",
+          "toplam_agirlik_kg_km": "",
+          "bakir_agirligi_kg_km": ""
+        },
+        {
+          "urun_id": "2181",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "part_numarasi": "H1Z2Z2-05",
+          "iletken_kesiti_mm2": "10.00 mm²",
+          "yapilandirma_ozeti": "10.00 mm²",
+          "dis_cap_mm": "",
+          "toplam_agirlik_kg_km": "",
+          "bakir_agirligi_kg_km": ""
+        },
+        {
+          "urun_id": "2181",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "part_numarasi": "H1Z2Z2-06",
+          "iletken_kesiti_mm2": "16.00 mm²",
+          "yapilandirma_ozeti": "16.00 mm²",
+          "dis_cap_mm": "",
+          "toplam_agirlik_kg_km": "",
+          "bakir_agirligi_kg_km": ""
+        },
+        {
+          "urun_id": "2181",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "part_numarasi": "H1Z2Z2-07",
+          "iletken_kesiti_mm2": "25.00 mm²",
+          "yapilandirma_ozeti": "25.00 mm²",
+          "dis_cap_mm": "",
+          "toplam_agirlik_kg_km": "",
+          "bakir_agirligi_kg_km": ""
+        },
+        {
+          "urun_id": "2181",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "part_numarasi": "H1Z2Z2-08",
+          "iletken_kesiti_mm2": "35.00 mm²",
+          "yapilandirma_ozeti": "35.00 mm²",
+          "dis_cap_mm": "",
+          "toplam_agirlik_kg_km": "",
+          "bakir_agirligi_kg_km": ""
+        }
+      ],
+      "mekanik_testler": [],
+      "uygulama_cevre": {},
+      "frekans_tablosu": [],
+      "rf_zayiflama": [],
+      "elektriksel_ozellikler": [
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "kesit": "1.50 mm²",
+          "i_letken_direnci_km_20_c": "13.70",
+          "calisma_voltaji_v_dc": "300/500",
+          "test_voltaji_v_dc_1_dakika": "1500"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "kesit": "2.50 mm²",
+          "i_letken_direnci_km_20_c": "8.21",
+          "calisma_voltaji_v_dc": "300/500",
+          "test_voltaji_v_dc_1_dakika": "1500"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "kesit": "4.00 mm²",
+          "i_letken_direnci_km_20_c": "5.09",
+          "calisma_voltaji_v_dc": "300/500",
+          "test_voltaji_v_dc_1_dakika": "1500"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "kesit": "6.00 mm²",
+          "i_letken_direnci_km_20_c": "3.39",
+          "calisma_voltaji_v_dc": "300/500",
+          "test_voltaji_v_dc_1_dakika": "1500"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "kesit": "10.00 mm²",
+          "i_letken_direnci_km_20_c": "1.95",
+          "calisma_voltaji_v_dc": "300/500",
+          "test_voltaji_v_dc_1_dakika": "1500"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "kesit": "16.00 mm²",
+          "i_letken_direnci_km_20_c": "1.24",
+          "calisma_voltaji_v_dc": "300/500",
+          "test_voltaji_v_dc_1_dakika": "1500"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "kesit": "25.00 mm²",
+          "i_letken_direnci_km_20_c": "0.795",
+          "calisma_voltaji_v_dc": "300/500",
+          "test_voltaji_v_dc_1_dakika": "1500"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "kesit": "35.00 mm²",
+          "i_letken_direnci_km_20_c": "0.565",
+          "calisma_voltaji_v_dc": "300/500",
+          "test_voltaji_v_dc_1_dakika": "1500"
+        }
+      ],
+      "standartlar": [
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "tip": "Standart Testi",
+          "ozellik_test_adi": "Duman Yoğunluğu Testi",
+          "deger_standart_kodu": "IEC 61034-2, VDE 0482-1034-2, BS EN 61034-2, BS EN 61034-2"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "tip": "Standart Testi",
+          "ozellik_test_adi": "Aşındırıcı Gaz Testi",
+          "deger_standart_kodu": "IEC 60754-2, VDE 0482-754-2, EN 60754-2, BS EN 60754-2"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "tip": "Standart Testi",
+          "ozellik_test_adi": "Halojensizlik Testi",
+          "deger_standart_kodu": "IEC 60754-1, VDE 0482-754-1, EN 60754-1, BS EN 60754-1"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "tip": "Standart Testi",
+          "ozellik_test_adi": "Alev Geciktiricilik Testi",
+          "deger_standart_kodu": "IEC 60332-1-2, VDE 0482-332-1-2, EN 60332-1-2, BS EN 60332-1-2"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "tip": "Standart Testi",
+          "ozellik_test_adi": "Alev Yayılım Testi",
+          "deger_standart_kodu": "IEC 60332-3-24, VDE 0482-332-3-24, EN 60332-3-24, BS EN 60332-3-24"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "tip": "Mekanik Özellik",
+          "ozellik_test_adi": "Bükülme Yarıçapı",
+          "deger_standart_kodu": "8xD mm"
+        },
+        {
+          "urun_id": 2181,
+          "kategori": "Solar Kablolar",
+          "urun_adi": "H1Z2Z2-K Solar Kablo",
+          "tip": "Mekanik Özellik",
+          "ozellik_test_adi": "Çalışma Sıcaklığı Aralığı",
+          "deger_standart_kodu": "-40°C ~ +90°C"
+        }
+      ],
+      "katmanlar": [
+        {
+          "sira": 1,
+          "etiket_tr": "1 - İletken",
+          "etiket_en": "1-Conductor",
+          "tanim_tr": "Bükülü elektrolitik kalaylı bakır iletken (Sınıf 5) (IEC 60228, EN 60228, DIN VDE 0295).",
+          "tanim_en": "Bükülü elektrolitik kalaylı bakır iletken (Sınıf 5) (IEC 60228, EN 60228, DIN VDE 0295)."
+        },
+        {
+          "sira": 2,
+          "etiket_tr": "2 - İzole",
+          "etiket_en": "2-Insulation",
+          "tanim_tr": "Çapraz bağlı (XL) HFFR (EN 60811, EN 60216-1-2).",
+          "tanim_en": "Çapraz bağlı (XL) HFFR (EN 60811, EN 60216-1-2)."
+        },
+        {
+          "sira": 3,
+          "etiket_tr": "3 - Dış Kılıf",
+          "etiket_en": "3-Outer Jacket",
+          "tanim_tr": "Çapraz bağlı (XL) HFFR dış kılıf. RAL 9005 (Siyah) veya RAL 3000 (Kırmızı)",
+          "tanim_en": "Çapraz bağlı (XL) HFFR dış kılıf. RAL 9005 (Black) or RAL 3000 (Red)"
+        }
+      ]
+    }
+  ],
+  "ham_sayfalar": {
+    "Ürünler": [
+      {
+        "id": 2181,
+        "_raw_ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "slug": "h1z2z2-k-solar-kablo",
+        "_raw_Slug": "h1z2z2-k-solar-kablo",
+        "url": "https://www.etkkablo.com/urun/h1z2z2-k-solar-kablo/",
+        "_raw_URL": "https://www.etkkablo.com/urun/h1z2z2-k-solar-kablo/",
+        "gorsel_url": "https://www.etkkablo.com/wp-content/uploads/2025/07/k1z2z2-k-solar-kablo.jpg",
+        "_raw_Görsel URL": "https://www.etkkablo.com/wp-content/uploads/2025/07/k1z2z2-k-solar-kablo.jpg",
+        "pdf_datasheet_url": "https://www.etkkablo.com/wp-content/uploads/2025/07/02c3d9fd-9570-4187-aacb-45b8297af366.pdf",
+        "_raw_PDF Datasheet URL": "https://www.etkkablo.com/wp-content/uploads/2025/07/02c3d9fd-9570-4187-aacb-45b8297af366.pdf",
+        "kablo_yapisi": "1 – İletken:Bükülü elektrolitik kalaylı bakır iletken (Sınıf 5) (IEC 60228, EN 60228, DIN VDE 0295).\n2 – İzole:Çapraz bağlı (XL) HFFR (EN 60811, EN 60216-1-2).\n3 – Dış Kılıf:Çapraz bağlı (XL) HFFR dış kılıf. RAL 9005 (Siyah) veya RAL 3000 (Kırmızı)",
+        "_raw_Kablo Yapısı": "1 – İletken:Bükülü elektrolitik kalaylı bakır iletken (Sınıf 5) (IEC 60228, EN 60228, DIN VDE 0295).\n2 – İzole:Çapraz bağlı (XL) HFFR (EN 60811, EN 60216-1-2).\n3 – Dış Kılıf:Çapraz bağlı (XL) HFFR dış kılıf. RAL 9005 (Siyah) veya RAL 3000 (Kırmızı)",
+        "teknik_ozellik_kesit_sayisi": 8,
+        "_raw_Teknik Özellik Kesit Sayısı": 8,
+        "standartlar": "Duman Yoğunluğu Testi: IEC 61034-2, VDE 0482-1034-2, BS EN 61034-2, BS EN 61034-2 | Aşındırıcı Gaz Testi: IEC 60754-2, VDE 0482-754-2, EN 60754-2, BS EN 60754-2 | Halojensizlik Testi: IEC 60754-1, VDE 0482-754-1, EN 60754-1, BS EN 60754-1 | Alev Geciktiricilik Testi: IEC 60332-1-2, VDE 0482-332-1-2, EN 60332-1-2, BS EN 60332-1-2 | Alev Yayılım Testi: IEC 60332-3-24, VDE 0482-332-3-24, EN 60332-3-24, BS EN 60332-3-24",
+        "_raw_Standartlar": "Duman Yoğunluğu Testi: IEC 61034-2, VDE 0482-1034-2, BS EN 61034-2, BS EN 61034-2 | Aşındırıcı Gaz Testi: IEC 60754-2, VDE 0482-754-2, EN 60754-2, BS EN 60754-2 | Halojensizlik Testi: IEC 60754-1, VDE 0482-754-1, EN 60754-1, BS EN 60754-1 | Alev Geciktiricilik Testi: IEC 60332-1-2, VDE 0482-332-1-2, EN 60332-1-2, BS EN 60332-1-2 | Alev Yayılım Testi: IEC 60332-3-24, VDE 0482-332-3-24, EN 60332-3-24, BS EN 60332-3-24",
+        "mekanik_ozellikler": "Bükülme Yarıçapı: 8xD mm | Çalışma Sıcaklığı Aralığı: -40°C ~ +90°C",
+        "_raw_Mekanik Özellikler": "Bükülme Yarıçapı: 8xD mm | Çalışma Sıcaklığı Aralığı: -40°C ~ +90°C",
+        "notlar": "",
+        "_raw_Notlar": ""
+      }
+    ],
+    "Teknik ve Elektriksel": [
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "kesit": "1.50 mm²",
+        "_raw_Kesit": "1.50 mm²",
+        "i_letken_direnci_km_20_c": "13.70",
+        "_raw_İletken Direnci Ω/km (20 °C)": "13.70",
+        "calisma_voltaji_v_dc": "300/500",
+        "_raw_Çalışma Voltajı V DC": "300/500",
+        "test_voltaji_v_dc_1_dakika": "1500",
+        "_raw_Test Voltajı V DC (1 dakika)": "1500"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "kesit": "2.50 mm²",
+        "_raw_Kesit": "2.50 mm²",
+        "i_letken_direnci_km_20_c": "8.21",
+        "_raw_İletken Direnci Ω/km (20 °C)": "8.21",
+        "calisma_voltaji_v_dc": "300/500",
+        "_raw_Çalışma Voltajı V DC": "300/500",
+        "test_voltaji_v_dc_1_dakika": "1500",
+        "_raw_Test Voltajı V DC (1 dakika)": "1500"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "kesit": "4.00 mm²",
+        "_raw_Kesit": "4.00 mm²",
+        "i_letken_direnci_km_20_c": "5.09",
+        "_raw_İletken Direnci Ω/km (20 °C)": "5.09",
+        "calisma_voltaji_v_dc": "300/500",
+        "_raw_Çalışma Voltajı V DC": "300/500",
+        "test_voltaji_v_dc_1_dakika": "1500",
+        "_raw_Test Voltajı V DC (1 dakika)": "1500"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "kesit": "6.00 mm²",
+        "_raw_Kesit": "6.00 mm²",
+        "i_letken_direnci_km_20_c": "3.39",
+        "_raw_İletken Direnci Ω/km (20 °C)": "3.39",
+        "calisma_voltaji_v_dc": "300/500",
+        "_raw_Çalışma Voltajı V DC": "300/500",
+        "test_voltaji_v_dc_1_dakika": "1500",
+        "_raw_Test Voltajı V DC (1 dakika)": "1500"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "kesit": "10.00 mm²",
+        "_raw_Kesit": "10.00 mm²",
+        "i_letken_direnci_km_20_c": "1.95",
+        "_raw_İletken Direnci Ω/km (20 °C)": "1.95",
+        "calisma_voltaji_v_dc": "300/500",
+        "_raw_Çalışma Voltajı V DC": "300/500",
+        "test_voltaji_v_dc_1_dakika": "1500",
+        "_raw_Test Voltajı V DC (1 dakika)": "1500"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "kesit": "16.00 mm²",
+        "_raw_Kesit": "16.00 mm²",
+        "i_letken_direnci_km_20_c": "1.24",
+        "_raw_İletken Direnci Ω/km (20 °C)": "1.24",
+        "calisma_voltaji_v_dc": "300/500",
+        "_raw_Çalışma Voltajı V DC": "300/500",
+        "test_voltaji_v_dc_1_dakika": "1500",
+        "_raw_Test Voltajı V DC (1 dakika)": "1500"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "kesit": "25.00 mm²",
+        "_raw_Kesit": "25.00 mm²",
+        "i_letken_direnci_km_20_c": "0.795",
+        "_raw_İletken Direnci Ω/km (20 °C)": "0.795",
+        "calisma_voltaji_v_dc": "300/500",
+        "_raw_Çalışma Voltajı V DC": "300/500",
+        "test_voltaji_v_dc_1_dakika": "1500",
+        "_raw_Test Voltajı V DC (1 dakika)": "1500"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "kesit": "35.00 mm²",
+        "_raw_Kesit": "35.00 mm²",
+        "i_letken_direnci_km_20_c": "0.565",
+        "_raw_İletken Direnci Ω/km (20 °C)": "0.565",
+        "calisma_voltaji_v_dc": "300/500",
+        "_raw_Çalışma Voltajı V DC": "300/500",
+        "test_voltaji_v_dc_1_dakika": "1500",
+        "_raw_Test Voltajı V DC (1 dakika)": "1500"
+      }
+    ],
+    "Standartlar ve Mekanik": [
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "tip": "Standart Testi",
+        "_raw_Tip": "Standart Testi",
+        "ozellik_test_adi": "Duman Yoğunluğu Testi",
+        "_raw_Özellik / Test Adı": "Duman Yoğunluğu Testi",
+        "deger_standart_kodu": "IEC 61034-2, VDE 0482-1034-2, BS EN 61034-2, BS EN 61034-2",
+        "_raw_Değer / Standart Kodu": "IEC 61034-2, VDE 0482-1034-2, BS EN 61034-2, BS EN 61034-2"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "tip": "Standart Testi",
+        "_raw_Tip": "Standart Testi",
+        "ozellik_test_adi": "Aşındırıcı Gaz Testi",
+        "_raw_Özellik / Test Adı": "Aşındırıcı Gaz Testi",
+        "deger_standart_kodu": "IEC 60754-2, VDE 0482-754-2, EN 60754-2, BS EN 60754-2",
+        "_raw_Değer / Standart Kodu": "IEC 60754-2, VDE 0482-754-2, EN 60754-2, BS EN 60754-2"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "tip": "Standart Testi",
+        "_raw_Tip": "Standart Testi",
+        "ozellik_test_adi": "Halojensizlik Testi",
+        "_raw_Özellik / Test Adı": "Halojensizlik Testi",
+        "deger_standart_kodu": "IEC 60754-1, VDE 0482-754-1, EN 60754-1, BS EN 60754-1",
+        "_raw_Değer / Standart Kodu": "IEC 60754-1, VDE 0482-754-1, EN 60754-1, BS EN 60754-1"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "tip": "Standart Testi",
+        "_raw_Tip": "Standart Testi",
+        "ozellik_test_adi": "Alev Geciktiricilik Testi",
+        "_raw_Özellik / Test Adı": "Alev Geciktiricilik Testi",
+        "deger_standart_kodu": "IEC 60332-1-2, VDE 0482-332-1-2, EN 60332-1-2, BS EN 60332-1-2",
+        "_raw_Değer / Standart Kodu": "IEC 60332-1-2, VDE 0482-332-1-2, EN 60332-1-2, BS EN 60332-1-2"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "tip": "Standart Testi",
+        "_raw_Tip": "Standart Testi",
+        "ozellik_test_adi": "Alev Yayılım Testi",
+        "_raw_Özellik / Test Adı": "Alev Yayılım Testi",
+        "deger_standart_kodu": "IEC 60332-3-24, VDE 0482-332-3-24, EN 60332-3-24, BS EN 60332-3-24",
+        "_raw_Değer / Standart Kodu": "IEC 60332-3-24, VDE 0482-332-3-24, EN 60332-3-24, BS EN 60332-3-24"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "tip": "Mekanik Özellik",
+        "_raw_Tip": "Mekanik Özellik",
+        "ozellik_test_adi": "Bükülme Yarıçapı",
+        "_raw_Özellik / Test Adı": "Bükülme Yarıçapı",
+        "deger_standart_kodu": "8xD mm",
+        "_raw_Değer / Standart Kodu": "8xD mm"
+      },
+      {
+        "urun_id": 2181,
+        "_raw_Ürün ID": 2181,
+        "kategori": "Solar Kablolar",
+        "_raw_Kategori": "Solar Kablolar",
+        "urun_adi": "H1Z2Z2-K Solar Kablo",
+        "_raw_Ürün Adı": "H1Z2Z2-K Solar Kablo",
+        "tip": "Mekanik Özellik",
+        "_raw_Tip": "Mekanik Özellik",
+        "ozellik_test_adi": "Çalışma Sıcaklığı Aralığı",
+        "_raw_Özellik / Test Adı": "Çalışma Sıcaklığı Aralığı",
+        "deger_standart_kodu": "-40°C ~ +90°C",
+        "_raw_Değer / Standart Kodu": "-40°C ~ +90°C"
+      }
+    ]
+  }
+}

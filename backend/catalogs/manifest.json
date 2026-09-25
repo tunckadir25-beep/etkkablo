@@ -1,0 +1,264 @@
+{
+  "generated_at": "2026-09-09T17:43:58.518958",
+  "catalogs": [
+    {
+      "catalog_key": "bina_otomasyon",
+      "family": "automation",
+      "display_name": "Bina Otomasyon (KNX/EIB) Kabloları",
+      "display_en": "Building Automation Cables",
+      "icon": "🏢",
+      "json_file": "bina_otomasyon.json",
+      "excel_source": "etk_bina_otomasyon_kablolari.xlsx",
+      "total_products": 4,
+      "total_variations": 0,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "cctv",
+      "family": "copper",
+      "display_name": "CCTV & Güvenlik Kabloları",
+      "display_en": "CCTV & Security Cables",
+      "icon": "📹",
+      "json_file": "cctv.json",
+      "excel_source": "etk_cctv_kablolari.xlsx",
+      "total_products": 2,
+      "total_variations": 43,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "dahili_telefon",
+      "family": "dahili_telefon",
+      "display_name": "Dahili Telefon Kabloları",
+      "display_en": "Indoor Telephone Cables",
+      "icon": "📞",
+      "json_file": "dahili_telefon.json",
+      "excel_source": "etk_dahili_telefon_kablolari.xlsx",
+      "total_products": 11,
+      "total_variations": 266,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "data_lan",
+      "family": "lan",
+      "display_name": "Data / LAN Kabloları",
+      "display_en": "Data / LAN Cables",
+      "icon": "💻",
+      "json_file": "data_lan.json",
+      "excel_source": "etk_data_lan_kablolari.xlsx",
+      "total_products": 86,
+      "total_variations": 146,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": true
+    },
+    {
+      "catalog_key": "enstrumantasyon",
+      "family": "instrumentation",
+      "display_name": "Enstrümantasyon Kabloları",
+      "display_en": "Instrumentation Cables",
+      "icon": "🎛️",
+      "json_file": "enstrumantasyon.json",
+      "excel_source": "etk_enstrumantasyon_kablolari.xlsx",
+      "total_products": 54,
+      "total_variations": 292,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "fiber_optik",
+      "family": "fiber",
+      "display_name": "Fiber Optik Kablolar",
+      "display_en": "Fiber Optic Cables",
+      "icon": "🌐",
+      "json_file": "fiber_optik.json",
+      "excel_source": "etk_fiber_kablolar.xlsx",
+      "total_products": 76,
+      "total_variations": 1410,
+      "has_mechanical_tests": true,
+      "has_application_env": true,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "harici_telefon",
+      "family": "harici_telefon",
+      "display_name": "Harici Telefon Kabloları",
+      "display_en": "Outdoor Telephone Cables",
+      "icon": "☎️",
+      "json_file": "harici_telefon.json",
+      "excel_source": "etk_harici_telefon_kablolari.xlsx",
+      "total_products": 48,
+      "total_variations": 2077,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "koaksiyel",
+      "family": "coaxial",
+      "display_name": "Koaksiyel Kablolar",
+      "display_en": "Coaxial Cables",
+      "icon": "📡",
+      "json_file": "koaksiyel.json",
+      "excel_source": "etk_koaksiyel_kablolar.xlsx",
+      "total_products": 17,
+      "total_variations": 17,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "kontrol",
+      "family": "control",
+      "display_name": "Kontrol & Kumanda Kabloları",
+      "display_en": "Control Cables",
+      "icon": "⚙️",
+      "json_file": "kontrol.json",
+      "excel_source": "etk_kontrol_kablolari.xlsx",
+      "total_products": 21,
+      "total_variations": 2306,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "silikon",
+      "family": "copper",
+      "display_name": "Silikon Kablolar",
+      "display_en": "Silicone Cables",
+      "icon": "🧪",
+      "json_file": "silikon.json",
+      "excel_source": "etk_silikon_kablolar.xlsx",
+      "total_products": 4,
+      "total_variations": 0,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "sinyal_kontrol",
+      "family": "sinyal_kontrol",
+      "display_name": "Sinyal Kontrol Kabloları",
+      "display_en": "Signal Control Cables",
+      "icon": "🎚️",
+      "json_file": "sinyal_kontrol.json",
+      "excel_source": "etk_sinyal_kontrol_kablolari.xlsx",
+      "total_products": 100,
+      "total_variations": 2961,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "solar",
+      "family": "solar",
+      "display_name": "Solar Kablolar",
+      "display_en": "Solar PV Cables",
+      "icon": "☀️",
+      "json_file": "solar.json",
+      "excel_source": "etk_solar_kablolar.xlsx",
+      "total_products": 1,
+      "total_variations": 8,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "yangin_alarm",
+      "family": "fire_resistant",
+      "display_name": "Yangın Alarm Kabloları",
+      "display_en": "Fire Alarm Cables",
+      "icon": "🚨",
+      "json_file": "yangin_alarm.json",
+      "excel_source": "etk_yangin_alarm_kablolari.xlsx",
+      "total_products": 2,
+      "total_variations": 136,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "yangina_dayanikli_enerji",
+      "family": "fire_resistant",
+      "display_name": "Yangına Dayanıklı Enerji Kabloları",
+      "display_en": "Fire Resistant Energy Cables",
+      "icon": "⚡",
+      "json_file": "yangina_dayanikli_enerji.json",
+      "excel_source": "etk_yangina_dayanikli_enerji_kablolari.xlsx",
+      "total_products": 4,
+      "total_variations": 38,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    },
+    {
+      "catalog_key": "yangina_dayanikli",
+      "family": "fire_resistant",
+      "display_name": "Yangına Dayanıklı Kablolar",
+      "display_en": "Fire Resistant Cables",
+      "icon": "🔥",
+      "json_file": "yangina_dayanikli.json",
+      "excel_source": "etk_yangina_dayanikli_kablolar.xlsx",
+      "total_products": 30,
+      "total_variations": 581,
+      "has_mechanical_tests": false,
+      "has_application_env": false,
+      "has_frequency_table": false
+    }
+  ],
+  "family_summary": {
+    "copper": {
+      "products": 280,
+      "variations": 8700,
+      "catalogs": [
+        "bina_otomasyon",
+        "cctv",
+        "dahili_telefon",
+        "enstrumantasyon",
+        "harici_telefon",
+        "kontrol",
+        "silikon",
+        "sinyal_kontrol",
+        "yangin_alarm",
+        "yangina_dayanikli_enerji",
+        "yangina_dayanikli"
+      ]
+    },
+    "lan": {
+      "products": 86,
+      "variations": 146,
+      "catalogs": [
+        "data_lan"
+      ]
+    },
+    "fiber": {
+      "products": 76,
+      "variations": 1410,
+      "catalogs": [
+        "fiber_optik"
+      ]
+    },
+    "coaxial": {
+      "products": 17,
+      "variations": 17,
+      "catalogs": [
+        "koaksiyel"
+      ]
+    },
+    "solar": {
+      "products": 1,
+      "variations": 8,
+      "catalogs": [
+        "solar"
+      ]
+    }
+  },
+  "total_products": 460,
+  "total_variations": 10281
+}
